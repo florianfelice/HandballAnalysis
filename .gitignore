@@ -161,3 +161,7 @@ cython_debug/
 
 
 CMP_simu.csv
+dist.csv
+
+# Temporary hidden
+PlaterAnalysis.ipynb

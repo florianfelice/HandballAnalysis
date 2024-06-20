@@ -14,7 +14,7 @@ The following notebooks are available as empirical illustration of the different
 
 ## Requirements
 
-⚠️ The presented notebooks may use libraries (such as `handballPredictions`) that are not publicly available.
+⚠️ The presented notebooks may use libraries (such as `sportsAnalytics`) that are not publicly available.
 Individual request can be evaluated to grant access to these libraries.
 
 
